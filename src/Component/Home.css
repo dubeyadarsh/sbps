@@ -1,0 +1,22 @@
+.cont{
+    background-color: coral;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px 20px, rgba(0, 0, 0, 0.3) 0px 30px 60px 30px, rgba(10, 37, 64, 0.35) 0px 12px 6px 0px inset;
+    
+    text-align: center;
+}
+.butn{
+    background-color: rgb(8, 122, 122) !important;
+    margin: 5px;
+    font-size: 1.5rem;
+    width: 30vw;
+    font-weight: bold;
+    color: #fff !important;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  
+}
+.butn:hover{
+    background-color: rgb(0, 68, 255) !important;
+    border-radius: 50px;
+}

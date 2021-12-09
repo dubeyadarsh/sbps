@@ -1,0 +1,18 @@
+.form{
+    padding: 10px;
+    margin-left: 15px;
+    font-size: large;
+   
+}
+.form input{
+    margin-left: 25px;
+}
+.buttn{
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 2rem;
+    
+}
+.buttn button :hover{
+    background-color: chocolate;
+}

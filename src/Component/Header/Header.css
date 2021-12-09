@@ -1,0 +1,16 @@
+.head{
+    height: 10vh;
+    width: 98.6vw;
+    background-color: black;
+    text-align: center;
+   
+}
+ .maintxt{
+    color: #fff;
+    font-size: 2rem!important;
+    font-weight: bolder;
+    text-shadow: 0 0 10px #fff,
+                 0 0 20px #fff, 
+                 0 0 40px #fff;
+    
+  }
